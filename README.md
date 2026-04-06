@@ -43,18 +43,4 @@ Getting your own instance up and running locally is incredibly simple.
    ```
    Navigate to `http://localhost:5173/` in your browser.
 
-## 🧪 Running the Tests
 
-A headless testing suite guarantees that all components, routing hooks, and global state management variables operate without falter. 
-To execute the tests:
-
-```bash
-npm run test
-```
-
-## 📸 Screenshots
-
-*(You can drag and drop screenshots of your Dashboard and Insights pages here after pushing!)*
-
----
-*Developed with modern React architectures for speed, aesthetics, and reliability.*
