@@ -2,7 +2,7 @@
 
 > A premium, dark-mode-first financial analytics dashboard featuring reactive state management, intelligent insight computations, and strict role-based access constraints.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Deploying_Soon...-brightgreen?style=for-the-badge)](#) *(Link will be added here!)*
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Finance_Dashboard-brightgreen?style=for-the-badge)](https://finance-dashboard-ui-one-omega.vercel.app/dashboard)
 
 ## 🌟 Key Features
 
